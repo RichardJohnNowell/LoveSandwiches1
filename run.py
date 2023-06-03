@@ -23,6 +23,6 @@ def get_sales_data():
 
     data_str = input("Enter your data here: ")
     sales_data = data_str.split(",")
-    print(sales.data)
+    print(sales_data)
 
 get_sales_data()
